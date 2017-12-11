@@ -21,3 +21,6 @@ echo "Running $x"
         done;
 
 echo "done"
+
+
+## Create sbatch files using touch and run parallely (htseq-count takes long time to run otherwise)
